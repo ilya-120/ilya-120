@@ -9,23 +9,16 @@
 
 
 ## 🛠 Мой стек:
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="26" alt="HTML5">]() HTML5
+[comment]: <> (<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/><img src="https://img.icons8.com/ios-filled/50/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/>)
+<img src="https://img.shields.io/static/v1?label&message=JavaScript&color=black&logo=javascript">
+<img src="https://img.shields.io/static/v1?label&message=React&color=black&logo=react">
+<img src="https://img.shields.io/static/v1?label&message=NodeJS&color=black&logo=Node.js">
+<img src="https://img.shields.io/static/v1?label&message=HTML&color=black&logo=HTML5">
+<img src="https://img.shields.io/static/v1?label&message=CSS&color=black&logo=CSS3">
+<img src="https://img.shields.io/static/v1?label&message=Webpack&color=black&logo=Webpack">
+<img src="https://img.shields.io/static/v1?label&message=GIT&color=black&logo=git">
+<img src="https://img.shields.io/static/v1?label&message=Figma&color=black&logo=Figma">
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="26" alt="CSS">]() CSS
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="26" alt="JavaScript">]() JavaScript
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="26" alt="React">]() React.js
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="26" alt="Git">]() Git
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" align="left" width="26" alt="Webpack">]() Webpack
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" align="left" width="26" alt="Redux">]() Redux
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="26" alt="Typescript">]() Typescript
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="26" alt="Node.js">]() Node.js
 
 ## ✉️ Мои контакты:
 - telegram: [@ilya_120](https://t.me/ilya_120)
