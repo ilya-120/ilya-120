@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/static/v1?label&message=Figma&color=black&logo=Figma">
 <img src="https://img.shields.io/static/v1?label&message=MongoDB&color=black&logo=MongoDB">
 
+<img src="https://www.codewars.com/users/ILYA_120/badges/micro">
 
 ## ✉️ Мои контакты:
 - telegram: [@ilya_120](https://t.me/ilya_120)
