@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/static/v1?label&message=JavaScript&color=black&logo=javascript">
 <img src="https://img.shields.io/static/v1?label&message=TypeScript&color=black&logo=typescript">
 <img src="https://img.shields.io/static/v1?label&message=React&color=black&logo=react">
-<img src="https://img.shields.io/static/v1?label&message=NodeJS&color=black&logo=Redux">
+<img src="https://img.shields.io/static/v1?label&message=Redux&color=black&logo=Redux">
 <img src="https://img.shields.io/static/v1?label&message=NodeJS&color=black&logo=Node.js">
 <img src="https://img.shields.io/static/v1?label&message=HTML&color=black&logo=HTML5">
 <img src="https://img.shields.io/static/v1?label&message=CSS&color=black&logo=CSS3">
