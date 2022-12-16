@@ -1,7 +1,8 @@
 # Привет, меня зовут Илья
 
 ## Обо мне:
-- 🎓 Учусь в [Яндекс.Практикум](https://practicum.yandex.ru/) на курсе Реакт-разработчик
+- Web&React developer (Веб&Реакт разработчик)
+- 🎓 Выпускник [Яндекс.Практикум](https://practicum.yandex.ru/) факультеты Веб-разработки и Реакт-разработки
 
 [![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-120&count_private=true&theme=radical&show_icons=true)](https://github.com/ilya-120/github-readme-stats)
 
