@@ -1,10 +1,12 @@
 # Привет, меня зовут Илья
 
 ## Обо мне:
-- Web&React developer (Веб&Реакт разработчик)
 
-[![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-120&count_private=true&theme=radical&show_icons=true)](https://github.com/ilya-120/github-readme-stats)
-
+- Web&React developer
+  
+- 🎓 Выпускник [Яндекс.Практикум](https://practicum.yandex.ru/) факультеты Веб-разработки и Реакт-разработки
+- 🎓 Студент магистратуры по направлению Информационные системы и технологии [Университет науки и технологий МИСИС](https://misis.ru/applicants/admission/magistracy/)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-120&layout=compact&theme=dark)](https://github.com/ilya-120/github-readme-stats)
 
 
